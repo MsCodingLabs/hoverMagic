@@ -3,7 +3,7 @@
 Ein cooles, kleines Webprojekt, bei dem du animierte 3D-Boxen drehen kannst – per Maus oder mit den Pfeiltasten auf deiner Tastatur.
 
 ## Screenshot
-![noverMagicGame.png]( https://github.com/MsCodingLabs/numberQuessingGame/blob/main/numberGuessingGame.png)
+![noverMagicGame.png]( https://github.com/MsCodingLabs/hoverMagic/blob/main/hoverMagicGame.png)
 
 ## ✨ Was kann das Projekt?
 

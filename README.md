@@ -2,6 +2,9 @@
 
 Ein cooles, kleines Webprojekt, bei dem du animierte 3D-Boxen drehen kannst – per Maus oder mit den Pfeiltasten auf deiner Tastatur.
 
+## Screenshot
+![noverMagicGame.png]( https://github.com/MsCodingLabs/numberQuessingGame/blob/main/numberGuessingGame.png)
+
 ## ✨ Was kann das Projekt?
 
 - Die Boxen drehen sich in 3D, wenn du mit der Maus darüberfährst oder die Tastatur benutzt
